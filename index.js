@@ -6,9 +6,17 @@ function shout (string)
   
 }
 
+function whisper (string)
+
+{
+  console.log(string.toLowercase())
+  
+  return string.toLowercase();
+  
+}
 
 
-
+whisper("HELLO")
 shout("hello");
 
 
