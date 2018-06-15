@@ -9,6 +9,6 @@ function shout (string)
 
 
 
-shout('what');
+shout("what");
 
 
